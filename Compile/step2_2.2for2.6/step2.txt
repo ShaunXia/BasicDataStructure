@@ -1,0 +1,7 @@
+S->aS
+S->W
+S->U
+U->a
+V->bV
+V->ac
+W->aW
